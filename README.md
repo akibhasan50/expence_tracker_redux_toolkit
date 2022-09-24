@@ -1,1 +1,1 @@
-# Video application using redux toolkit #
+# Expence Tracker application using redux toolkit #
